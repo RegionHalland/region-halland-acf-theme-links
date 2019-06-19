@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-theme-links",
+    "description": "Skapa tema-länkar för exempelvis puffar på första-sidan",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
