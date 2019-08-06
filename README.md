@@ -18,6 +18,13 @@ C) En funktion för att hämta ut respektive text som en array
 OBS! Denna plugin förutsätter att du har installerat och aktiverat Advanced Custom Fields Pro (https://www.advancedcustomfields.com/pro/)
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-acf-theme-links/blob/master/LICENSE)
+```
+
 ## Installation och aktivering
 
 ```sh
@@ -82,6 +89,10 @@ array (size=4)
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Lagt till information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
